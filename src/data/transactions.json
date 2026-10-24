@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TX-103",
+    "type": "pengeluaran",
+    "category": "alat",
+    "amount": 600,
+    "note": "Pengeluaran",
+    "date": "17/10/2026"
+  },
+  {
+    "id": "TX-102",
+    "type": "pengeluaran",
+    "category": "Makanan",
+    "amount": 9500,
+    "note": "Pengeluaran",
+    "date": "17/10/2026"
+  },
+  {
+    "id": "TX-101",
+    "type": "pemasukan",
+    "category": "Uang Saku",
+    "amount": 501000,
+    "note": "Pemasukan",
+    "date": "17/10/2026"
+  },
+  {
+    "id": "TX-567",
+    "type": "pemasukan",
+    "category": "Uang Saku",
+    "amount": 20000,
+    "note": "dari mamah",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-310",
+    "type": "pengeluaran",
+    "category": "Makanan",
+    "amount": 10000,
+    "note": "Pengeluaran",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-552",
+    "type": "pengeluaran",
+    "category": "Makanan",
+    "amount": 9000,
+    "note": "Pengeluaran",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-591",
+    "type": "pemasukan",
+    "category": "Uang Saku",
+    "amount": 10000,
+    "note": "Pemasukan",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-956",
+    "type": "pemasukan",
+    "category": "Uang Saku",
+    "amount": 1,
+    "note": "Pemasukan",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-715",
+    "type": "pengeluaran",
+    "category": "Makanan",
+    "amount": 30000,
+    "note": "Pengeluaran",
+    "date": "25/10/2026"
+  },
+  {
+    "id": "TX-844",
+    "type": "pemasukan",
+    "category": "Uang Saku",
+    "amount": 20000,
+    "note": "Pemasukan",
+    "date": "25/10/2026"
+  }
+]
